@@ -68,3 +68,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+#Portfolio Project
+This is a single-page portfolio built with React.
+
+##Project Setup
+
+1.Clone the repository:
+'''bash
+git clone <repository-url>
+'''
+
+2.Navigate to the project directory:
+'''bash
+cd portfolio
+'''
+
+3.Install dependencies:
+'''bash
+npm install
+,,,
+
+4.Start the development server:
+'''bash
+npm start
+'''
+## Technologies Used
+
+*React
+*HTML
+*CSS
+*Bootstrap
+*Eslint
+*Prietter
+*Git
+
+## Project Structure
+
